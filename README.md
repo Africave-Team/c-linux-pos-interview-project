@@ -26,7 +26,7 @@ Build a C app that consume an API endpoint for authentication, access a protecte
     ```
 
 ## Project 2 - EMV Implementation
-Buid an application that reads all card (EMV process) e.g MasterCard, Verve, Visa and generate ISO 8583 messages for the following transactions:
+Buid an application that reads all card (EMV process) e.g MasterCard, Verve, Visa and generate ISO 8583 messages that is ready for **NIBSS** submission for the following transactions:
  - Preauth
  - Preauth Completion
  - Purchase
